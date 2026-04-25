@@ -1,0 +1,9 @@
+{
+    "name": "indextts2",
+    "version": "1.0.0",
+    "description": "IndexTTS2 addon for text-to-speech synthesis.",
+    "author": "Pathos14489",
+    "project_url": "https://github.com/Pathos14489/Pantella-indextts2",
+    "enabled": true,
+    "dependencies": []
+}
