@@ -18,6 +18,7 @@ except Exception as e:
 logging.info("Imported required libraries in indextts2.py")
 
 tts_slug = "indextts2"
+tts_name = "IndexTTS 2"
 default_settings = {
     "indextts2_banned_voice_models": [],
 }
